@@ -1,2 +1,2 @@
 # btlship
-battleship
+battleship game using Node.js
